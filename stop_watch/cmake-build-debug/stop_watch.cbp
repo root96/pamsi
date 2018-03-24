@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="stop_watch"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/home/pati/Pulpit/pamsi/stop_watch/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -f &quot;/home/pati/Pulpit/pamsi/stop_watch/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -f &quot;/home/pati/Pulpit/pamsi/stop_watch/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -f &quot;/home/pati/Pulpit/pamsi/stop_watch/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -f &quot;/home/pati/Pulpit/pamsi/stop_watch/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/home/pati/Pulpit/pamsi/stop_watch/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -f &quot;/home/pati/Pulpit/pamsi/stop_watch/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -f &quot;/home/pati/Pulpit/pamsi/stop_watch/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -f &quot;/home/pati/Pulpit/pamsi/stop_watch/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -f &quot;/home/pati/Pulpit/pamsi/stop_watch/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/home/pati/Pulpit/pamsi/stop_watch/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -f &quot;/home/pati/Pulpit/pamsi/stop_watch/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -f &quot;/home/pati/Pulpit/pamsi/stop_watch/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -f &quot;/home/pati/Pulpit/pamsi/stop_watch/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -f &quot;/home/pati/Pulpit/pamsi/stop_watch/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="stop_watch">
+				<Option output="/home/pati/Pulpit/pamsi/stop_watch/cmake-build-debug/stop_watch" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/pati/Pulpit/pamsi/stop_watch/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/5"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/5"/>
+					<Add directory="/usr/include/c++/5/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -f &quot;/home/pati/Pulpit/pamsi/stop_watch/cmake-build-debug/Makefile&quot;  VERBOSE=1 stop_watch"/>
+					<CompileFile command="/usr/bin/make -f &quot;/home/pati/Pulpit/pamsi/stop_watch/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -f &quot;/home/pati/Pulpit/pamsi/stop_watch/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -f &quot;/home/pati/Pulpit/pamsi/stop_watch/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="stop_watch/fast">
+				<Option output="/home/pati/Pulpit/pamsi/stop_watch/cmake-build-debug/stop_watch" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/pati/Pulpit/pamsi/stop_watch/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/5"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/5"/>
+					<Add directory="/usr/include/c++/5/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -f &quot;/home/pati/Pulpit/pamsi/stop_watch/cmake-build-debug/Makefile&quot;  VERBOSE=1 stop_watch/fast"/>
+					<CompileFile command="/usr/bin/make -f &quot;/home/pati/Pulpit/pamsi/stop_watch/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -f &quot;/home/pati/Pulpit/pamsi/stop_watch/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -f &quot;/home/pati/Pulpit/pamsi/stop_watch/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/home/pati/Pulpit/pamsi/stop_watch/HybridSort.h">
+			<Option target="stop_watch"/>
+		</Unit>
+		<Unit filename="/home/pati/Pulpit/pamsi/stop_watch/IPreparable.h">
+			<Option target="stop_watch"/>
+		</Unit>
+		<Unit filename="/home/pati/Pulpit/pamsi/stop_watch/IRunnable.h">
+			<Option target="stop_watch"/>
+		</Unit>
+		<Unit filename="/home/pati/Pulpit/pamsi/stop_watch/IStrategy.h">
+			<Option target="stop_watch"/>
+		</Unit>
+		<Unit filename="/home/pati/Pulpit/pamsi/stop_watch/Stub.h">
+			<Option target="stop_watch"/>
+		</Unit>
+		<Unit filename="/home/pati/Pulpit/pamsi/stop_watch/importedClasses/HeapSort.h">
+			<Option target="stop_watch"/>
+		</Unit>
+		<Unit filename="/home/pati/Pulpit/pamsi/stop_watch/main.cpp">
+			<Option target="stop_watch"/>
+		</Unit>
+		<Unit filename="/home/pati/Pulpit/pamsi/stop_watch/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

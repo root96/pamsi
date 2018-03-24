@@ -1,0 +1,3 @@
+/home/kamil/Documents/repositories/pamsi/data_structures/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/kamil/Documents/repositories/pamsi/data_structures/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/kamil/Documents/repositories/pamsi/data_structures/cmake-build-debug/CMakeFiles/data_structures.dir

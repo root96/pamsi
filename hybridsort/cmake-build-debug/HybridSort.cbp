@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="HybridSort"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/home/kamil/Documents/repositories/pamsi/hybridsort/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/kamil/Documents/repositories/pamsi/hybridsort/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/kamil/Documents/repositories/pamsi/hybridsort/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/kamil/Documents/repositories/pamsi/hybridsort/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/kamil/Documents/repositories/pamsi/hybridsort/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/home/kamil/Documents/repositories/pamsi/hybridsort/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/kamil/Documents/repositories/pamsi/hybridsort/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/kamil/Documents/repositories/pamsi/hybridsort/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/kamil/Documents/repositories/pamsi/hybridsort/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/kamil/Documents/repositories/pamsi/hybridsort/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/home/kamil/Documents/repositories/pamsi/hybridsort/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/kamil/Documents/repositories/pamsi/hybridsort/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/kamil/Documents/repositories/pamsi/hybridsort/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/kamil/Documents/repositories/pamsi/hybridsort/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/kamil/Documents/repositories/pamsi/hybridsort/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="HybridSort">
+				<Option output="/home/kamil/Documents/repositories/pamsi/hybridsort/cmake-build-debug/HybridSort" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/kamil/Documents/repositories/pamsi/hybridsort/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/5"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/5"/>
+					<Add directory="/usr/include/c++/5/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/kamil/Documents/repositories/pamsi/hybridsort/cmake-build-debug/Makefile&quot;  VERBOSE=1 HybridSort"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/kamil/Documents/repositories/pamsi/hybridsort/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/kamil/Documents/repositories/pamsi/hybridsort/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/kamil/Documents/repositories/pamsi/hybridsort/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="HybridSort/fast">
+				<Option output="/home/kamil/Documents/repositories/pamsi/hybridsort/cmake-build-debug/HybridSort" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/kamil/Documents/repositories/pamsi/hybridsort/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/5"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/5"/>
+					<Add directory="/usr/include/c++/5/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/kamil/Documents/repositories/pamsi/hybridsort/cmake-build-debug/Makefile&quot;  VERBOSE=1 HybridSort/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/kamil/Documents/repositories/pamsi/hybridsort/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/kamil/Documents/repositories/pamsi/hybridsort/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/kamil/Documents/repositories/pamsi/hybridsort/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/home/kamil/Documents/repositories/pamsi/hybridsort/Heapsort.h">
+			<Option target="HybridSort"/>
+		</Unit>
+		<Unit filename="/home/kamil/Documents/repositories/pamsi/hybridsort/Hybridsort.h">
+			<Option target="HybridSort"/>
+		</Unit>
+		<Unit filename="/home/kamil/Documents/repositories/pamsi/hybridsort/IPreparable.h">
+			<Option target="HybridSort"/>
+		</Unit>
+		<Unit filename="/home/kamil/Documents/repositories/pamsi/hybridsort/IRunnable.h">
+			<Option target="HybridSort"/>
+		</Unit>
+		<Unit filename="/home/kamil/Documents/repositories/pamsi/hybridsort/ISortable.h">
+			<Option target="HybridSort"/>
+		</Unit>
+		<Unit filename="/home/kamil/Documents/repositories/pamsi/hybridsort/IStrategy.h">
+			<Option target="HybridSort"/>
+		</Unit>
+		<Unit filename="/home/kamil/Documents/repositories/pamsi/hybridsort/Mergesort.h">
+			<Option target="HybridSort"/>
+		</Unit>
+		<Unit filename="/home/kamil/Documents/repositories/pamsi/hybridsort/Quicksort.h">
+			<Option target="HybridSort"/>
+		</Unit>
+		<Unit filename="/home/kamil/Documents/repositories/pamsi/hybridsort/main.cpp">
+			<Option target="HybridSort"/>
+		</Unit>
+		<Unit filename="/home/kamil/Documents/repositories/pamsi/hybridsort/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

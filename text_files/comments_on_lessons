@@ -1,0 +1,27 @@
+algorytmy przejscia po grafach:
+-DFS
+-BFS
+-Branch & Bound
+-A*
+
+jak w sposob najbardiej efektywni znalezc droge miedzy dwoma grafami
+
+znalezc siec wroclawia z wszystkimi przystankami i na tej podstawie bedziemy pisac algorytmy przeszuwkiwania grafow.
+
+Kryteria:
+-czas pracy algorytmu
+-ilosc zbadanych krawdzi
+-ilosc odwiedzonych krawedzi
+( jedno z drugim idzie w parze)
+-optymalnosc rozwiazania
+
+na poniedzialek poczytac o tych algorytmach
+
+na yt : MIT Patrick Winstew DFS,BFS itd. (dwa wyklady ktore zaczynaja sie od slowka search). Wyklad nr 4,5
+
+rozeznac temat
+na stronie miasta odnalezc tabliczki przystankowe
+
+chcemy w programie zadac odnalezienie trasy z placu grunwaldzkiem do dworca pkp
+
+na wyzsza ocene modyfikowanie pivot quicksorta

@@ -1,0 +1,22 @@
+\select@language {polish}
+\contentsline {section}{\numberline {1}Wst\IeC {\k e}p}{2}
+\contentsline {section}{\numberline {2}Kod \IeC {\'z}r\IeC {\'o}d\IeC {\l }owy}{2}
+\contentsline {subsection}{\numberline {2.1}Schemat powi\IeC {\k a}za\IeC {\'n} klas}{2}
+\contentsline {section}{\numberline {3}Wykresy}{3}
+\contentsline {subsection}{\numberline {3.1}Wybrane przypadki dla danych algorytm\IeC {\'o}w sortowania}{3}
+\contentsline {subsection}{\numberline {3.2}Wybrane przypadki dla wszystkich algorytm\IeC {\'o}w sortowania}{4}
+\contentsline {section}{\numberline {4}Tabelki}{6}
+\contentsline {subsection}{\numberline {4.1}Quicksort}{6}
+\contentsline {subsubsection}{\numberline {4.1.1}Przypadek optymistyczny}{6}
+\contentsline {subsubsection}{\numberline {4.1.2}Przypadek normalny}{6}
+\contentsline {subsubsection}{\numberline {4.1.3}Przypadek pesymistyczny}{6}
+\contentsline {subsection}{\numberline {4.2}Mergesort}{7}
+\contentsline {subsubsection}{\numberline {4.2.1}Przypadek optymistyczny}{7}
+\contentsline {subsubsection}{\numberline {4.2.2}Przypadek normalny}{7}
+\contentsline {subsubsection}{\numberline {4.2.3}Przypadek pesymistyczny}{7}
+\contentsline {subsection}{\numberline {4.3}Heapsort}{8}
+\contentsline {subsubsection}{\numberline {4.3.1}Przypadek optymistyczny}{8}
+\contentsline {subsubsection}{\numberline {4.3.2}Przypadek normalny}{8}
+\contentsline {subsubsection}{\numberline {4.3.3}Przypadek pesymistyczny}{8}
+\contentsline {section}{\numberline {5}Wnioski}{9}
+\contentsline {section}{\numberline {6}Wykorzystane biblioteki}{9}

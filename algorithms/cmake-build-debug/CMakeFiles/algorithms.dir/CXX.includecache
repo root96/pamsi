@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/pati/Dokumenty/pamsi/algorithms/MergeSort.h
+vector
+-
+
+/home/pati/Dokumenty/pamsi/algorithms/QuickSort.h
+
+/home/pati/Dokumenty/pamsi/algorithms/main.cpp
+iostream
+-
+vector
+-
+MergeSort.h
+/home/pati/Dokumenty/pamsi/algorithms/MergeSort.h
+QuickSort.h
+/home/pati/Dokumenty/pamsi/algorithms/QuickSort.h
+
